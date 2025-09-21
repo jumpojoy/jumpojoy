@@ -97,7 +97,7 @@ Kharkiv, Ukraine | saienko.vasyl@gmail.com | +380992568817 | [LinkedIn](https://
 ## Education
 
 **Masters degree in Telecommunications**
-*2011 Kharkiv national university of radioelectronics*
+*2006 - 2011 [Kharkiv National University of Radioelectronics](https://nure.ua/)*
 
 ***
 
@@ -111,6 +111,8 @@ Kharkiv, Ukraine | saienko.vasyl@gmail.com | +380992568817 | [LinkedIn](https://
 
 * **CCNA** - Cisco Certified Network Associate
 * **CCNP** - Cisco Certified Network Professional
+
+***
 
 ## Awards
 * First place in 3rd Ukrainian Competition of Cisco Network Technologies  (Kiev, 2009)
