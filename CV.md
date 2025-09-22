@@ -6,6 +6,7 @@ Kharkiv, Ukraine | saienko.vasyl@gmail.com | +380992568817 | [LinkedIn](https://
 * More than 10 years of hands-on experience in cloud administration.
 * Designed, installed, configured and maintained  OpenStack clouds.
 * Solid understanding of virtualization technologies (KVM), networking and bare metal.
+* Solid understanding of Kubernetes and its internals.
 * More than 5 years of  hands-on experience in network engineering.
 * Designed, installed, configured and maintained complex routed LAN and WAN networks.
 * Strong understanding of TCP/IP stack and network protocols.
@@ -16,11 +17,11 @@ Kharkiv, Ukraine | saienko.vasyl@gmail.com | +380992568817 | [LinkedIn](https://
 ## Experience
 
 **Principal DevOps Engineer at [Mirantis](https://mirantis.com)**
-*Karkiv, Ukraine | Jan 2014 – Present | 10+years*
+*Kharkiv, Ukraine | Jan 2014 – Present | 10+years*
 
 * Technical lead of team 6 persons (roadmap planning, task planning). 
 * Technical lead of [MCP](https://docs.mirantis.com/mcp) (Mirantis Container Platform) life cycle management platform for OpenStack services (Keystone, Neutron, Glance, Cinder, Heat, Horizon, Ironic, Nova, Swift, Designate, Barbican) based on salt, reclass, ansible
-* Author of [rockoon](https://github.com/Mirantis/rockoon) Kubernetes Operator that provideTs LCM for OpenStack deployment.  
+* Author of [rockoon](https://github.com/Mirantis/rockoon) Kubernetes Operator that provides LCM for OpenStack deployment.
 * Layer 3 support of Openstack
 * [Core reviewer in Openstack Ironic](https://docs.openstack.org/project-team-guide/open-development.html) (Ocata/Pike releases)
 * Co-Author of [networking-generic-switch](https://github.com/openstack/networking-generic-switch) official Openstack baremetal project since (Pike release)
