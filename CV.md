@@ -11,6 +11,7 @@ Kharkiv, Ukraine | saienko.vasyl@gmail.com | +380992568817 | [LinkedIn](https://
 * Designed, installed, configured and maintained complex routed LAN and WAN networks.
 * Strong understanding of TCP/IP stack and network protocols.
 * Solid programming skills (Python) in OpenStack and networking automation.
+* Solid understanding of Kubernetes ecosystem, 3+ year of experience in managing complex application (OpenStack) on barmeetal Kubernetes.
 
 ***
 
