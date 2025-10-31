@@ -21,7 +21,7 @@ Kharkiv, Ukraine | saienko.vasyl@gmail.com | +380992568817 | [LinkedIn](https://
 *Kharkiv, Ukraine | Jan 2014 – Present | 10+years*
 
 * Technical lead of team 6 persons (roadmap planning, task planning). 
-* Technical lead of [MCP](https://docs.mirantis.com/mcp) (Mirantis Container Platform) life cycle management platform for OpenStack services (Keystone, Neutron, Glance, Cinder, Heat, Horizon, Ironic, Nova, Swift, Designate, Barbican) based on salt, reclass, ansible
+* Technical lead of [MCP](https://docs.mirantis.com/mcp) (Mirantis Cloud Platform) life cycle management platform for OpenStack services (Keystone, Neutron, Glance, Cinder, Heat, Horizon, Ironic, Nova, Swift, Designate, Barbican) based on salt, reclass, ansible
 * Author of [rockoon](https://github.com/Mirantis/rockoon) Kubernetes Operator that provides LCM for OpenStack deployment.
 * Layer 3 support of Openstack
 * [Core reviewer in Openstack Ironic](https://docs.openstack.org/project-team-guide/open-development.html) (Ocata/Pike releases)
